@@ -40,11 +40,11 @@ This script automates the process of liking Rumble videos using multiple bot acc
 Call the main function `start_rumble_likes()` with the following parameters:
 - `amount_of_bots`: Number of bots to run concurrently.
 - `start_count`: Starting index for the bot accounts.
-- `channel_url`: The URL of the Rumble video to like.
+- `video_url`: The URL of the Rumble video to like.
 
 Example:
 ```python
-start_rumble_likes(amount_of_bots=10, start_count=0, channel_url="https://rumble.com/videolink")
+start_rumble_likes(amount_of_bots=10, start_count=0, video_url="https://rumble.com/videolink")
 ```
 
 For further assistance or if you wish to purchase Rumble likes, visit our [shop](https://fame.cheap/shop/rumble/likes).
