@@ -1,5 +1,5 @@
 
-# Rumble Likes Automation Bot
+# Rumble Likes Bot
 
 This script automates the process of liking Rumble videos using multiple bot accounts and proxies. It simulates user interactions to log in and like a video on Rumble using Selenium, undetected Chrome, and a rotating list of proxies.
 
