@@ -20,7 +20,7 @@ This script automates the process of liking Rumble videos using multiple bot acc
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/TheMysteryPanda/Kick-Viewbot.git
+   git clone https://github.com/TheMysteryPanda/Rumble-Likes-Bot,git
    ```
 
 2. Install the required Python libraries:
